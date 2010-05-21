@@ -45,9 +45,7 @@ use DBD::Pg ();
 use Test::Expect ();
 use Test::Synopsis ();
 
-__PACKAGE__->meta->make_immutable;
-
-__END__
+1;
 
 =head1 NAME
 
