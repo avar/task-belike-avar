@@ -12,7 +12,6 @@ use MooseX::Getopt ();
 
 use App::Nopaste ();
 use WWW::Mechanize ();
-use perl5i ();
 
 # My modules
 use App::Nopaste::Service::Linode ();
